@@ -1,5 +1,5 @@
 
-size = input("What pizza size do you want? S, M, L ")
+size = input(" What pizza size do you want? S, M, L ")
 
 add_pepperoni = input(" Do you want to add pepperoni ?")
 
