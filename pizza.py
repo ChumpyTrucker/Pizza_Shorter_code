@@ -3,7 +3,7 @@ size = input("What pizza size do you want? S, M, L ")
 
 add_pepperoni = input("Do you want to add pepperoni ?")
 
-extra_cheese = input("Do you want to add extra cheese ?")
+extra_cheese = input(" Do you want to add extra cheese ?")
 
 bill = 0
 
